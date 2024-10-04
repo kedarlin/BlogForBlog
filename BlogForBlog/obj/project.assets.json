@@ -5353,19 +5353,19 @@
     ]
   },
   "packageFolders": {
-    "/home/hp/.nuget/packages/": {}
+    "/home/dell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hp/trainin/BlogWeb/BlogForBlog/BlogForBlog.csproj",
+      "projectUniqueName": "/home/dell/Desktop/BlogForBlog/BlogForBlog/BlogForBlog.csproj",
       "projectName": "BlogForBlog",
-      "projectPath": "/home/hp/trainin/BlogWeb/BlogForBlog/BlogForBlog.csproj",
-      "packagesPath": "/home/hp/.nuget/packages/",
-      "outputPath": "/home/hp/trainin/BlogWeb/BlogForBlog/obj/",
+      "projectPath": "/home/dell/Desktop/BlogForBlog/BlogForBlog/BlogForBlog.csproj",
+      "packagesPath": "/home/dell/.nuget/packages/",
+      "outputPath": "/home/dell/Desktop/BlogForBlog/BlogForBlog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/hp/.nuget/NuGet/NuGet.Config"
+        "/home/dell/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
